@@ -6,8 +6,8 @@ h1{
   color:Navy;
 }
 
-hr{
-  background-color:Black;
-  height:1px;
-  border:0;
+hr {
+  height: 0; 
+  border: 0; 
+  border-top: 1px solid #000000; 
 }
