@@ -22,3 +22,7 @@ span{
 .spacer{
   padding-top: 100px;
 }
+
+.profile{
+  display: inline;
+}
