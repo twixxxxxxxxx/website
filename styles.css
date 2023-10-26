@@ -4,11 +4,15 @@ body{
 
 h1{
   color:Black;
-  font-family:Garamond;
+  font-family: 'Comic Sans MS';
 }
 
 hr {
   height: 0; 
   border: 0; 
   border-top: 1px solid #000000; 
+}
+
+.spacer{
+  
 }
