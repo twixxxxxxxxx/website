@@ -25,4 +25,5 @@ span{
 
 .profile{
   display: inline-block;
+  border-style: dotted;
 }
